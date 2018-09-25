@@ -7,74 +7,74 @@ This is the entire China 2010 Census published data in excel form, which I scrap
 Here's all the standard translation for some parts of the documents, since most of them share the same characters. 
 
 Chinese:
-地    区
-全    国
-北    京
-天    津
-河    北
-山    西
-内 蒙 古
-辽    宁
-吉    林
-黑 龙 江
-上    海
-江    苏
-浙    江
-安    徽
-福    建
-江    西
-山    东
-河    南
-湖    北
-湖    南
-广    东
-广    西
-海    南
-重    庆
-四    川
-贵    州
-云    南
-西    藏
-陕    西
-甘    肃
-青    海
-宁    夏
-新    疆
+地    区\
+全    国\
+北    京\
+天    津\
+河    北\
+山    西\
+内 蒙 古\
+辽    宁\
+吉    林\
+黑 龙 江\
+上    海\
+江    苏\
+浙    江\
+安    徽\
+福    建\
+江    西\
+山    东\
+河    南\
+湖    北\
+湖    南\
+广    东\
+广    西\
+海    南\
+重    庆\
+四    川\
+贵    州\
+云    南\
+西    藏\
+陕    西\
+甘    肃\
+青    海\
+宁    夏\
+新    疆\
 
-English:
-Region
-National
-Beijing
-Tianjin
-Hebei
-Shanxi
-Inner Mongolia
-Liaoning
-Jilin
-Heilongjiang
-Shanghai
-Jiangsu
-Zhejiang
-Anhui
-Fujian
-Jiangxi
-Shandong
-Henan
-Hubei
-Hunan
-Guangdong
-Guangxi
-Hainan
-Chongqing
-Sichuan
-Guizhou
-Yunnan
-Tibet
-Shaanxi
-Gansu
-Qinghai
-Ningxia 
-Xinjiang
+English:\
+Region\
+National\
+Beijing\
+Tianjin\
+Hebei\
+Shanxi\
+Inner Mongolia\
+Liaoning\
+Jilin\
+Heilongjiang\
+Shanghai\
+Jiangsu\
+Zhejiang\
+Anhui\
+Fujian\
+Jiangxi\
+Shandong\
+Henan\
+Hubei\
+Hunan\
+Guangdong\
+Guangxi\
+Hainan\
+Chongqing\
+Sichuan\
+Guizhou\
+Yunnan\
+Tibet\
+Shaanxi\
+Gansu\
+Qinghai\
+Ningxia\ 
+Xinjiang\
 
 男	Male
 女	Female
