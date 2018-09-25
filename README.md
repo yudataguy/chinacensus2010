@@ -74,7 +74,7 @@ Shaanxi\
 Gansu\
 Qinghai\
 Ningxia\ 
-Xinjiang\
+Xinjiang
 
 男	Male
 女	Female
